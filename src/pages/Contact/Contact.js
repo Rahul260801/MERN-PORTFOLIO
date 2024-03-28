@@ -11,7 +11,7 @@ const Contact = () => {
   const linkedinURL = "https://www.linkedin.com/in/rahul-jha-0663b91bb/";
   const LeetCodeURL = "https://leetcode.com/rahul__26/";
   const githubURL = "https://github.com/Rahul260801";
-  const phoneNumber = "+9176929225691";
+  const phoneNumber = "76929225691";
   const email = "jayjha380@gmail.com";
 
    // Function to format phone number for use in the tel: link
