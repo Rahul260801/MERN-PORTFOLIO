@@ -10,9 +10,7 @@ const Projects = () => {
     </h2>
     <hr />
     <p className="pb-3 text-center">
-                   atque aliquam aspernatur eveniet! Ipsam eum
-                 nobis omnis id voluptatibus quas eos maxime ipsum facere numquam,
-                  voluptate qui et animi doloribus nulla eius molestiae unde tempore ad
+                  Here are my latest Projects ,feel free to check them out! 😊
     </p>
     {/* card design */}
     <div className="row" id="ads">
