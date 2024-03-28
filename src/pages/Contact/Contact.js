@@ -26,7 +26,7 @@ const Contact = () => {
               <Rotate>
                 <div className="card2 d-flex card border-0 px-4 py-5">
                   <div className="row justify-content-center mb-4"  >
-                    <h6>
+                    <h6 className="icon-space">
                       <a href={linkedinURL} target="_blank" rel="noopener noreferrer"no>
                         <BsLinkedin color="blue" size={30} className="ms-2" title="LinkedIn" /> 
                       </a>

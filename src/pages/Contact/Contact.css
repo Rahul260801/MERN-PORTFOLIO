@@ -71,9 +71,36 @@
       align-items: center;
       justify-content: center;
     }
+
+    
   }
-  @media (max-width: 600px) {
+ 
+  @media (max-width: 990px) {
     .card2 {
-      padding: 10px; /* Reduce padding for smaller screens */
+      padding: 20px; /* Reduce padding for smaller screens */
+      margin: 10px;
     }
+    .contact .card2 h6 {
+      display: flex;
+      justify-content: center /* Distribute icons equally within the container */
+    }
+    .contact .card2 h6 a {
+      padding: 0px; /* Add padding for space around icons */
+      margin: 0px /* Remove margin to evenly distribute icons */   
+    }
+  
+  
+    
+
+   
   }
+
+  
+
+
+
+  
+
+
+
+ 
