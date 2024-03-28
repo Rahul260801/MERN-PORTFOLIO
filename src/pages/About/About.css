@@ -55,3 +55,14 @@
     margin-top: 10px;
   }
   }
+  @media (min-width: 750px) and (max-width: 950px) {
+    .about-content p {
+      font-size:11px;
+      padding-right: 12%;
+      width: 120%;
+      margin: 12 auto;
+      word-spacing: normal;
+    }
+  }
+  
+  
