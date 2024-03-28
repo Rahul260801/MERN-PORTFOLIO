@@ -55,7 +55,7 @@
     margin-top: 10px;
   }
   }
-  @media (min-width: 750px) and (max-width: 950px) {
+  @media (min-width: 750px) and (max-width: 999px) {
     .about-content p {
       font-size:11px;
       padding-right: 12%;
