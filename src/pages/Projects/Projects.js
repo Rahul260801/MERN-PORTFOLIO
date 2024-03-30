@@ -76,7 +76,7 @@ const Projects = () => {
                   <span className="card-notify-badge">FrontEnd</span>
                   <img
                     src="https://image.smythstoys.com/zoom/189714_3.jpg"
-                    alt="project1"
+                    alt="project3"
                   />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
